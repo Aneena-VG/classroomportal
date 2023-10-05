@@ -18,6 +18,12 @@ also restricted access to sections of the website based on the category the user
 The application is developed using HTML, CSS and JavaScript along with Bootstrap 
 implementation in its front-end part. The backend part of the website is developed using PHP and 
 the database is stored in a MySQL server.
+
+
+
+
+
+
 // to run 
 use xampp
 place the file in the xampp folder in c drive
