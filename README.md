@@ -26,8 +26,13 @@ the database is stored in a MySQL server.
 
 // to run 
 use xampp
+
+
 place the file in the xampp folder in c drive
 run-localhost/phpmyadmin/
+
 create new database named "questions"
+
 import all files
+
 run-localhost/foldername/home2.php
